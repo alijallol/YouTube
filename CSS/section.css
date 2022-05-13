@@ -1,6 +1,6 @@
 #video-viewer{
     position: absolute;
-        
+
     padding: 25px;
     padding-bottom: 500px;
 
@@ -10,7 +10,7 @@
     top:121px;
     left:250px;
 
-    width: 1250px;
+    width: 1219px;
 
     z-index: -1;
 
@@ -41,5 +41,6 @@
 }
 
 .video{
-    padding-bottom: 50px;
+    width: 295px;
+    margin-bottom: 50px;
 }
